@@ -11,5 +11,6 @@ namespace ModelCantina
         public int IDCliente { get; set; }
         public string Nome { get; set; }
         public string Telefone { get; set; }
+        //Adicionado um comentário pelo Visual Studio Code
     }
 }
